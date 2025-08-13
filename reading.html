@@ -1,0 +1,46 @@
+﻿<!doctype html><html lang='es'><head>
+  <title>Lectura — Italiano</title>
+  <meta charset='utf-8' />
+  <meta name='viewport' content='width=device-width,initial-scale=1' />
+  <meta name='theme-color' content='#0ea5e9' />
+  <link rel='icon' href='assets/img/logo-ruben.png' />
+  <link rel='apple-touch-icon' href='assets/img/logo-ruben.png' />
+  <link rel='stylesheet' href='assets/css/style.css' /></head><body><header>
+  <div class='wrap top'>
+    <a href='index.html' class='brand'><img src='assets/img/logo-ruben.png' alt='Logo'><strong>CURSO ITALIANO</strong></a>
+    <nav>
+      <a href='grammar-vocabulary.html'  >Gramática y Vocabulario</a>
+      <a href='reading.html'   class="active">Lectura</a>
+      <a href='listening.html' >Escucha</a>
+      <a href='writing.html'   >Escritura</a>
+      <a href='speaking.html'  >Habla</a>
+      <a href='plan-estudio.html' >Plan</a>
+      <a href='simulacros.html'   >Simulacros</a>
+      <a href='extras.html'    >Extras</a>
+      <a href='mis-resultados.html' >Mis Resultados</a>
+      <a href='contacto.html'  >Contacto</a>
+    </nav>
+  </div>
+</header>
+<section class='wrap'>
+  <h1>Reading (Comprensione scritta)</h1>
+  <p>Allena <i>skim</i> e <i>scan</i>: idea generale, dettagli, inferenze.</p>
+  <div id='ir-bar-host'></div>
+  <ul class='links'>
+    <li data-id='it-read-1'><span class='badge'>Esercizi</span><a target='_blank' href='https://learningapps.org/'>Attività interattive</a></li>
+    <li data-id='it-read-2'><span class='badge'>Testi</span><a target='_blank' href='https://www.italianoinsegnanti.it/'>Testi graduati A1–B2</a></li>
+  </ul>
+  <h2 style='margin-top:18px'>Práctica interactiva</h2>
+  <div id='quiz-reading'></div>
+</section>
+<footer>
+  <div class='wrap foot'>
+    <div class='foot-left'><img src='assets/img/logo-ruben.png' alt='Logo'><small>© 2025 CURSO ITALIANO — Rubén Muñoz</small></div>
+    <small>Italiano A0→B2 · Preparación tipo CELI/CILS</small>
+  </div>
+</footer>
+<script src='assets/js/app.js'></script>
+<script src='assets/js/quiz.js'></script>
+<script src='assets/js/data-lettura.js'></script>
+<script>IRApp.initProgress('it-reading'); IRQuiz.renderQuiz('quiz-reading', letturaEsercizi);</script>
+</body></html>

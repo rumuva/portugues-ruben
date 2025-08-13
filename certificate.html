@@ -1,0 +1,56 @@
+﻿<!doctype html><html lang='es'><head>
+  <title>Certificado — Italiano</title>
+  <meta charset='utf-8' />
+  <meta name='viewport' content='width=device-width,initial-scale=1' />
+  <meta name='theme-color' content='#0ea5e9' />
+  <link rel='icon' href='assets/img/logo-ruben.png' />
+  <link rel='apple-touch-icon' href='assets/img/logo-ruben.png' />
+  <link rel='stylesheet' href='assets/css/style.css' />
+<style>
+.certificate{max-width:900px;margin:40px auto;border:2px solid #0ea5e9;padding:28px;border-radius:16px}
+.cert-head{display:flex;justify-content:space-between;align-items:center;gap:12px}
+.cert-head img{height:48px}
+.grid{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin-top:12px}
+.line{border-bottom:1px dashed #e5e7eb;height:16px}
+.sign{display:flex;align-items:center;gap:8px;margin-top:24px}
+@media print{.no-print{display:none}}
+</style></head><body>
+<section class='wrap'>
+  <div class='certificate' id='cert'>
+    <div class='cert-head'>
+      <div style='display:flex;align-items:center;gap:10px'>
+        <img src='assets/img/logo-ruben.png' alt='Logo'>
+        <div><h2 style='margin:0'>CURSO ITALIANO</h2><small>A0→B2 — Preparazione tipo CELI/CILS</small></div>
+      </div>
+      <small id='cert-id'></small>
+    </div>
+    <h3 style='margin-top:18px'>Certificado de preparación completada</h3>
+    <p>Se certifica que <b id='cert-nombre'>Estudiante</b> ha completado el itinerario de <b>Italiano</b> y está preparado para presentarse a pruebas tipo <b>CELI/CILS</b>.</p>
+    <div class='grid'>
+      <div><small>Nombre del alumno</small><div class='line' id='line-nombre'></div></div>
+      <div><small>Fecha emisión</small><div class='line' id='line-fecha'></div></div>
+    </div>
+    <div class='grid'>
+      <div><small>Progreso total registrado</small><div class='line' id='line-progreso'></div></div>
+      <div><small>Sección más fuerte</small><div class='line' id='line-fuerte'></div></div>
+    </div>
+    <div class='sign'><img src='assets/img/logo-ruben.png' style='height:36px'><div><b>Rubén Muñoz Valadés</b><br><small>Docente · CURSO ITALIANO</small></div></div>
+  </div>
+  <div class='no-print' style='display:flex;gap:8px;margin-top:12px'>
+    <button class='btn' onclick='window.print()'>Imprimir / Guardar PDF</button>
+    <a class='btn ghost' href='mis-resultados.html'>Volver</a>
+  </div>
+</section>
+<script src='assets/js/app.js'></script>
+<script>(function(){
+  const id='IT-B2-'+String(Date.now()).slice(-6);
+  document.getElementById('cert-id').textContent=id;
+  const s=IRApp.getTotal();
+  const nombre=prompt('Tu nombre para el certificado:','Nombre y apellidos')||'Alumno/a';
+  document.getElementById('cert-nombre').textContent=nombre;
+  document.getElementById('line-nombre').textContent=nombre;
+  document.getElementById('line-fecha').textContent=new Date().toLocaleDateString();
+  document.getElementById('line-progreso').textContent=s.p+'%';
+  document.getElementById('line-fuerte').textContent='—';
+})();</script>
+</body></html>
