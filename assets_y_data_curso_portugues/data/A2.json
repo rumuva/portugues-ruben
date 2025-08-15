@@ -1,0 +1,353 @@
+{
+  "meta": {
+    "nivel": "A2",
+    "titulo": "Variante europea (Portugal)",
+    "descripcion": "Frases, diálogos y práctica auditiva con pistas MP3 (añádelas en assets/audio)."
+  },
+  "frases": [
+    {
+      "es": "¿Dónde está la estación?",
+      "pt": "Onde fica a estação?"
+    },
+    {
+      "es": "Quisiera un café",
+      "pt": "Queria um café"
+    },
+    {
+      "es": "¿Aceptan tarjeta?",
+      "pt": "Aceitam cartão?"
+    },
+    {
+      "es": "Estoy aprendiendo portugués",
+      "pt": "Estou a aprender português"
+    },
+    {
+      "es": "¿Cuánto cuesta?",
+      "pt": "Quanto custa?"
+    },
+    {
+      "es": "Frase modelo 6 del nivel A2.",
+      "pt": "Frase modelo 6 do nível A2."
+    },
+    {
+      "es": "Frase modelo 7 del nivel A2.",
+      "pt": "Frase modelo 7 do nível A2."
+    },
+    {
+      "es": "Frase modelo 8 del nivel A2.",
+      "pt": "Frase modelo 8 do nível A2."
+    },
+    {
+      "es": "Frase modelo 9 del nivel A2.",
+      "pt": "Frase modelo 9 do nível A2."
+    },
+    {
+      "es": "Frase modelo 10 del nivel A2.",
+      "pt": "Frase modelo 10 do nível A2."
+    },
+    {
+      "es": "Frase modelo 11 del nivel A2.",
+      "pt": "Frase modelo 11 do nível A2."
+    },
+    {
+      "es": "Frase modelo 12 del nivel A2.",
+      "pt": "Frase modelo 12 do nível A2."
+    },
+    {
+      "es": "Frase modelo 13 del nivel A2.",
+      "pt": "Frase modelo 13 do nível A2."
+    },
+    {
+      "es": "Frase modelo 14 del nivel A2.",
+      "pt": "Frase modelo 14 do nível A2."
+    },
+    {
+      "es": "Frase modelo 15 del nivel A2.",
+      "pt": "Frase modelo 15 do nível A2."
+    },
+    {
+      "es": "Frase modelo 16 del nivel A2.",
+      "pt": "Frase modelo 16 do nível A2."
+    },
+    {
+      "es": "Frase modelo 17 del nivel A2.",
+      "pt": "Frase modelo 17 do nível A2."
+    },
+    {
+      "es": "Frase modelo 18 del nivel A2.",
+      "pt": "Frase modelo 18 do nível A2."
+    },
+    {
+      "es": "Frase modelo 19 del nivel A2.",
+      "pt": "Frase modelo 19 do nível A2."
+    },
+    {
+      "es": "Frase modelo 20 del nivel A2.",
+      "pt": "Frase modelo 20 do nível A2."
+    },
+    {
+      "es": "Frase modelo 21 del nivel A2.",
+      "pt": "Frase modelo 21 do nível A2."
+    },
+    {
+      "es": "Frase modelo 22 del nivel A2.",
+      "pt": "Frase modelo 22 do nível A2."
+    },
+    {
+      "es": "Frase modelo 23 del nivel A2.",
+      "pt": "Frase modelo 23 do nível A2."
+    },
+    {
+      "es": "Frase modelo 24 del nivel A2.",
+      "pt": "Frase modelo 24 do nível A2."
+    },
+    {
+      "es": "Frase modelo 25 del nivel A2.",
+      "pt": "Frase modelo 25 do nível A2."
+    },
+    {
+      "es": "Frase modelo 26 del nivel A2.",
+      "pt": "Frase modelo 26 do nível A2."
+    },
+    {
+      "es": "Frase modelo 27 del nivel A2.",
+      "pt": "Frase modelo 27 do nível A2."
+    },
+    {
+      "es": "Frase modelo 28 del nivel A2.",
+      "pt": "Frase modelo 28 do nível A2."
+    },
+    {
+      "es": "Frase modelo 29 del nivel A2.",
+      "pt": "Frase modelo 29 do nível A2."
+    },
+    {
+      "es": "Frase modelo 30 del nivel A2.",
+      "pt": "Frase modelo 30 do nível A2."
+    }
+  ],
+  "dialogos": [
+    {
+      "titulo": "Diálogo 1 · Nivel A2",
+      "turnos": [
+        {
+          "speaker": "A",
+          "text": "Hola, soy Rubén. (Nivel A2)"
+        },
+        {
+          "speaker": "B",
+          "text": "Olá, eu sou a Ana. (Nível A2)"
+        },
+        {
+          "speaker": "A",
+          "text": "¿Hablamos en portugués?"
+        },
+        {
+          "speaker": "B",
+          "text": "Claro, vamos praticar um pouco."
+        }
+      ]
+    },
+    {
+      "titulo": "Diálogo 2 · Nivel A2",
+      "turnos": [
+        {
+          "speaker": "A",
+          "text": "Hola, soy Rubén. (Nivel A2)"
+        },
+        {
+          "speaker": "B",
+          "text": "Olá, eu sou a Ana. (Nível A2)"
+        },
+        {
+          "speaker": "A",
+          "text": "¿Hablamos en portugués?"
+        },
+        {
+          "speaker": "B",
+          "text": "Claro, vamos praticar um pouco."
+        }
+      ]
+    },
+    {
+      "titulo": "Diálogo 3 · Nivel A2",
+      "turnos": [
+        {
+          "speaker": "A",
+          "text": "Hola, soy Rubén. (Nivel A2)"
+        },
+        {
+          "speaker": "B",
+          "text": "Olá, eu sou a Ana. (Nível A2)"
+        },
+        {
+          "speaker": "A",
+          "text": "¿Hablamos en portugués?"
+        },
+        {
+          "speaker": "B",
+          "text": "Claro, vamos praticar um pouco."
+        }
+      ]
+    },
+    {
+      "titulo": "Diálogo 4 · Nivel A2",
+      "turnos": [
+        {
+          "speaker": "A",
+          "text": "Hola, soy Rubén. (Nivel A2)"
+        },
+        {
+          "speaker": "B",
+          "text": "Olá, eu sou a Ana. (Nível A2)"
+        },
+        {
+          "speaker": "A",
+          "text": "¿Hablamos en portugués?"
+        },
+        {
+          "speaker": "B",
+          "text": "Claro, vamos praticar um pouco."
+        }
+      ]
+    },
+    {
+      "titulo": "Diálogo 5 · Nivel A2",
+      "turnos": [
+        {
+          "speaker": "A",
+          "text": "Hola, soy Rubén. (Nivel A2)"
+        },
+        {
+          "speaker": "B",
+          "text": "Olá, eu sou a Ana. (Nível A2)"
+        },
+        {
+          "speaker": "A",
+          "text": "¿Hablamos en portugués?"
+        },
+        {
+          "speaker": "B",
+          "text": "Claro, vamos praticar um pouco."
+        }
+      ]
+    },
+    {
+      "titulo": "Diálogo 6 · Nivel A2",
+      "turnos": [
+        {
+          "speaker": "A",
+          "text": "Hola, soy Rubén. (Nivel A2)"
+        },
+        {
+          "speaker": "B",
+          "text": "Olá, eu sou a Ana. (Nível A2)"
+        },
+        {
+          "speaker": "A",
+          "text": "¿Hablamos en portugués?"
+        },
+        {
+          "speaker": "B",
+          "text": "Claro, vamos praticar um pouco."
+        }
+      ]
+    },
+    {
+      "titulo": "Diálogo 7 · Nivel A2",
+      "turnos": [
+        {
+          "speaker": "A",
+          "text": "Hola, soy Rubén. (Nivel A2)"
+        },
+        {
+          "speaker": "B",
+          "text": "Olá, eu sou a Ana. (Nível A2)"
+        },
+        {
+          "speaker": "A",
+          "text": "¿Hablamos en portugués?"
+        },
+        {
+          "speaker": "B",
+          "text": "Claro, vamos praticar um pouco."
+        }
+      ]
+    },
+    {
+      "titulo": "Diálogo 8 · Nivel A2",
+      "turnos": [
+        {
+          "speaker": "A",
+          "text": "Hola, soy Rubén. (Nivel A2)"
+        },
+        {
+          "speaker": "B",
+          "text": "Olá, eu sou a Ana. (Nível A2)"
+        },
+        {
+          "speaker": "A",
+          "text": "¿Hablamos en portugués?"
+        },
+        {
+          "speaker": "B",
+          "text": "Claro, vamos praticar um pouco."
+        }
+      ]
+    },
+    {
+      "titulo": "Diálogo 9 · Nivel A2",
+      "turnos": [
+        {
+          "speaker": "A",
+          "text": "Hola, soy Rubén. (Nivel A2)"
+        },
+        {
+          "speaker": "B",
+          "text": "Olá, eu sou a Ana. (Nível A2)"
+        },
+        {
+          "speaker": "A",
+          "text": "¿Hablamos en portugués?"
+        },
+        {
+          "speaker": "B",
+          "text": "Claro, vamos praticar um pouco."
+        }
+      ]
+    },
+    {
+      "titulo": "Diálogo 10 · Nivel A2",
+      "turnos": [
+        {
+          "speaker": "A",
+          "text": "Hola, soy Rubén. (Nivel A2)"
+        },
+        {
+          "speaker": "B",
+          "text": "Olá, eu sou a Ana. (Nível A2)"
+        },
+        {
+          "speaker": "A",
+          "text": "¿Hablamos en portugués?"
+        },
+        {
+          "speaker": "B",
+          "text": "Claro, vamos praticar um pouco."
+        }
+      ]
+    }
+  ],
+  "audios": [
+    {
+      "titulo": "Pista 1 — Vocabulario y frases",
+      "duracion": "~12 min",
+      "src": "assets/audio/A2_pista1.mp3"
+    },
+    {
+      "titulo": "Pista 2 — Diálogos guiados",
+      "duracion": "~12 min",
+      "src": "assets/audio/A2_pista2.mp3"
+    }
+  ]
+}

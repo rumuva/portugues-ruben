@@ -1,0 +1,353 @@
+{
+  "meta": {
+    "nivel": "B2",
+    "titulo": "Variante europea (Portugal)",
+    "descripcion": "Frases, diálogos y práctica auditiva con pistas MP3 (añádelas en assets/audio)."
+  },
+  "frases": [
+    {
+      "es": "La transformación digital exige nuevas competencias",
+      "pt": "A transformação digital exige novas competências"
+    },
+    {
+      "es": "Estoy preparando un curso completo de portugués",
+      "pt": "Estou a preparar um curso completo de português"
+    },
+    {
+      "es": "Necesitamos evidencias para la acreditación",
+      "pt": "Precisamos de evidências para a acreditação"
+    },
+    {
+      "es": "Propongo un enfoque por proyectos",
+      "pt": "Proponho uma abordagem por projetos"
+    },
+    {
+      "es": "Conviene contrastar fuentes fiables",
+      "pt": "Convém contrastar fontes fiáveis"
+    },
+    {
+      "es": "Frase modelo 6 del nivel B2.",
+      "pt": "Frase modelo 6 do nível B2."
+    },
+    {
+      "es": "Frase modelo 7 del nivel B2.",
+      "pt": "Frase modelo 7 do nível B2."
+    },
+    {
+      "es": "Frase modelo 8 del nivel B2.",
+      "pt": "Frase modelo 8 do nível B2."
+    },
+    {
+      "es": "Frase modelo 9 del nivel B2.",
+      "pt": "Frase modelo 9 do nível B2."
+    },
+    {
+      "es": "Frase modelo 10 del nivel B2.",
+      "pt": "Frase modelo 10 do nível B2."
+    },
+    {
+      "es": "Frase modelo 11 del nivel B2.",
+      "pt": "Frase modelo 11 do nível B2."
+    },
+    {
+      "es": "Frase modelo 12 del nivel B2.",
+      "pt": "Frase modelo 12 do nível B2."
+    },
+    {
+      "es": "Frase modelo 13 del nivel B2.",
+      "pt": "Frase modelo 13 do nível B2."
+    },
+    {
+      "es": "Frase modelo 14 del nivel B2.",
+      "pt": "Frase modelo 14 do nível B2."
+    },
+    {
+      "es": "Frase modelo 15 del nivel B2.",
+      "pt": "Frase modelo 15 do nível B2."
+    },
+    {
+      "es": "Frase modelo 16 del nivel B2.",
+      "pt": "Frase modelo 16 do nível B2."
+    },
+    {
+      "es": "Frase modelo 17 del nivel B2.",
+      "pt": "Frase modelo 17 do nível B2."
+    },
+    {
+      "es": "Frase modelo 18 del nivel B2.",
+      "pt": "Frase modelo 18 do nível B2."
+    },
+    {
+      "es": "Frase modelo 19 del nivel B2.",
+      "pt": "Frase modelo 19 do nível B2."
+    },
+    {
+      "es": "Frase modelo 20 del nivel B2.",
+      "pt": "Frase modelo 20 do nível B2."
+    },
+    {
+      "es": "Frase modelo 21 del nivel B2.",
+      "pt": "Frase modelo 21 do nível B2."
+    },
+    {
+      "es": "Frase modelo 22 del nivel B2.",
+      "pt": "Frase modelo 22 do nível B2."
+    },
+    {
+      "es": "Frase modelo 23 del nivel B2.",
+      "pt": "Frase modelo 23 do nível B2."
+    },
+    {
+      "es": "Frase modelo 24 del nivel B2.",
+      "pt": "Frase modelo 24 do nível B2."
+    },
+    {
+      "es": "Frase modelo 25 del nivel B2.",
+      "pt": "Frase modelo 25 do nível B2."
+    },
+    {
+      "es": "Frase modelo 26 del nivel B2.",
+      "pt": "Frase modelo 26 do nível B2."
+    },
+    {
+      "es": "Frase modelo 27 del nivel B2.",
+      "pt": "Frase modelo 27 do nível B2."
+    },
+    {
+      "es": "Frase modelo 28 del nivel B2.",
+      "pt": "Frase modelo 28 do nível B2."
+    },
+    {
+      "es": "Frase modelo 29 del nivel B2.",
+      "pt": "Frase modelo 29 do nível B2."
+    },
+    {
+      "es": "Frase modelo 30 del nivel B2.",
+      "pt": "Frase modelo 30 do nível B2."
+    }
+  ],
+  "dialogos": [
+    {
+      "titulo": "Diálogo 1 · Nivel B2",
+      "turnos": [
+        {
+          "speaker": "A",
+          "text": "Hola, soy Rubén. (Nivel B2)"
+        },
+        {
+          "speaker": "B",
+          "text": "Olá, eu sou a Ana. (Nível B2)"
+        },
+        {
+          "speaker": "A",
+          "text": "¿Hablamos en portugués?"
+        },
+        {
+          "speaker": "B",
+          "text": "Claro, vamos praticar um pouco."
+        }
+      ]
+    },
+    {
+      "titulo": "Diálogo 2 · Nivel B2",
+      "turnos": [
+        {
+          "speaker": "A",
+          "text": "Hola, soy Rubén. (Nivel B2)"
+        },
+        {
+          "speaker": "B",
+          "text": "Olá, eu sou a Ana. (Nível B2)"
+        },
+        {
+          "speaker": "A",
+          "text": "¿Hablamos en portugués?"
+        },
+        {
+          "speaker": "B",
+          "text": "Claro, vamos praticar um pouco."
+        }
+      ]
+    },
+    {
+      "titulo": "Diálogo 3 · Nivel B2",
+      "turnos": [
+        {
+          "speaker": "A",
+          "text": "Hola, soy Rubén. (Nivel B2)"
+        },
+        {
+          "speaker": "B",
+          "text": "Olá, eu sou a Ana. (Nível B2)"
+        },
+        {
+          "speaker": "A",
+          "text": "¿Hablamos en portugués?"
+        },
+        {
+          "speaker": "B",
+          "text": "Claro, vamos praticar um pouco."
+        }
+      ]
+    },
+    {
+      "titulo": "Diálogo 4 · Nivel B2",
+      "turnos": [
+        {
+          "speaker": "A",
+          "text": "Hola, soy Rubén. (Nivel B2)"
+        },
+        {
+          "speaker": "B",
+          "text": "Olá, eu sou a Ana. (Nível B2)"
+        },
+        {
+          "speaker": "A",
+          "text": "¿Hablamos en portugués?"
+        },
+        {
+          "speaker": "B",
+          "text": "Claro, vamos praticar um pouco."
+        }
+      ]
+    },
+    {
+      "titulo": "Diálogo 5 · Nivel B2",
+      "turnos": [
+        {
+          "speaker": "A",
+          "text": "Hola, soy Rubén. (Nivel B2)"
+        },
+        {
+          "speaker": "B",
+          "text": "Olá, eu sou a Ana. (Nível B2)"
+        },
+        {
+          "speaker": "A",
+          "text": "¿Hablamos en portugués?"
+        },
+        {
+          "speaker": "B",
+          "text": "Claro, vamos praticar um pouco."
+        }
+      ]
+    },
+    {
+      "titulo": "Diálogo 6 · Nivel B2",
+      "turnos": [
+        {
+          "speaker": "A",
+          "text": "Hola, soy Rubén. (Nivel B2)"
+        },
+        {
+          "speaker": "B",
+          "text": "Olá, eu sou a Ana. (Nível B2)"
+        },
+        {
+          "speaker": "A",
+          "text": "¿Hablamos en portugués?"
+        },
+        {
+          "speaker": "B",
+          "text": "Claro, vamos praticar um pouco."
+        }
+      ]
+    },
+    {
+      "titulo": "Diálogo 7 · Nivel B2",
+      "turnos": [
+        {
+          "speaker": "A",
+          "text": "Hola, soy Rubén. (Nivel B2)"
+        },
+        {
+          "speaker": "B",
+          "text": "Olá, eu sou a Ana. (Nível B2)"
+        },
+        {
+          "speaker": "A",
+          "text": "¿Hablamos en portugués?"
+        },
+        {
+          "speaker": "B",
+          "text": "Claro, vamos praticar um pouco."
+        }
+      ]
+    },
+    {
+      "titulo": "Diálogo 8 · Nivel B2",
+      "turnos": [
+        {
+          "speaker": "A",
+          "text": "Hola, soy Rubén. (Nivel B2)"
+        },
+        {
+          "speaker": "B",
+          "text": "Olá, eu sou a Ana. (Nível B2)"
+        },
+        {
+          "speaker": "A",
+          "text": "¿Hablamos en portugués?"
+        },
+        {
+          "speaker": "B",
+          "text": "Claro, vamos praticar um pouco."
+        }
+      ]
+    },
+    {
+      "titulo": "Diálogo 9 · Nivel B2",
+      "turnos": [
+        {
+          "speaker": "A",
+          "text": "Hola, soy Rubén. (Nivel B2)"
+        },
+        {
+          "speaker": "B",
+          "text": "Olá, eu sou a Ana. (Nível B2)"
+        },
+        {
+          "speaker": "A",
+          "text": "¿Hablamos en portugués?"
+        },
+        {
+          "speaker": "B",
+          "text": "Claro, vamos praticar um pouco."
+        }
+      ]
+    },
+    {
+      "titulo": "Diálogo 10 · Nivel B2",
+      "turnos": [
+        {
+          "speaker": "A",
+          "text": "Hola, soy Rubén. (Nivel B2)"
+        },
+        {
+          "speaker": "B",
+          "text": "Olá, eu sou a Ana. (Nível B2)"
+        },
+        {
+          "speaker": "A",
+          "text": "¿Hablamos en portugués?"
+        },
+        {
+          "speaker": "B",
+          "text": "Claro, vamos praticar um pouco."
+        }
+      ]
+    }
+  ],
+  "audios": [
+    {
+      "titulo": "Pista 1 — Vocabulario y frases",
+      "duracion": "~12 min",
+      "src": "assets/audio/B2_pista1.mp3"
+    },
+    {
+      "titulo": "Pista 2 — Diálogos guiados",
+      "duracion": "~12 min",
+      "src": "assets/audio/B2_pista2.mp3"
+    }
+  ]
+}
